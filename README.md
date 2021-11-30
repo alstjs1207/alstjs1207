@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## <center>🌱 I’m currently learning ...
+### <center>🌱 I’m currently learning
 
   
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
@@ -17,6 +17,14 @@
 <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/></a>
 </center>
 
+
+### 🔭 I’m currently working on
+
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=alstjs1207&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/alstjs1207/github-readme-stats)
+
+### :muscle: I’m currently Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alstjs1207&layout=compact)](https://github.com/alstjs1207/github-readme-stats)
 
 <!--
 **alstjs1207/alstjs1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
