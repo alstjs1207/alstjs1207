@@ -5,6 +5,7 @@
   
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-springBoot-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Kotlin-544179?style=flat-plastic&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Node.js-green?style=flat-plastic&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-TypeScript-396EB0?style=flat-plastic&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Vue.js-116530?style=flat-plastic&logo=Vue.js&logoColor=white"/></a>
@@ -12,6 +13,7 @@
 <img src="https://img.shields.io/badge/-Mysql-blue?style=flat-plastic&logo=MariaDB Foundation&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-gcp-009DAE?style=flat-plastic&logo=Google Cloud&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Redis-F58840?style=flat-plastic&logo=Redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Docker-1597E5?style=flat-plastic&logo=Docker&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/></a>
